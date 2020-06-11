@@ -1,5 +1,7 @@
 /.idea/
 /examples/
 /out/
-/dnf.pl
+/tree-map.pl
 /prolog.iml
+/prtest/
+/base/
